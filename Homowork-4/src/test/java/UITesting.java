@@ -17,6 +17,5 @@ public class UITesting{
         Thread.sleep(3000);
         $(".gLFyf").setValue("Nemo").sendKeys(Keys.ENTER);
         Thread.sleep(5000);
-        closeWindow();
     }
 }

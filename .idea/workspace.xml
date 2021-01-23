@@ -22,14 +22,114 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd27316e-b7f2-4979-a301-d65d3a44e212" name="Default Changelist" comment="">
+    <list default="true" id="47c84296-5933-4eef-9f0f-8b60a670093b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Homework-3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_selenide_5_16_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_30_0_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homowork-4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Homowork-4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/Homowork-4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195537302.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195537302.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195662849.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195662849.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195909007.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610195909007.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196039729.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196039729.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196600364.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196600364.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196692572.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610196692572.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610197379983.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/1610197379983.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1608937356009_13600_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1608937446566_16492_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610193204603_18656_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610193468724_26736_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610193760848_25716_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194012381_13604_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194055834_23920_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194126745_23820_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194390485_6420_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194572733_948_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194636563_10016_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194791396_2592_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610194960246_15912_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610195265738_22972_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610195495576_15480_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610195620974_16968_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610195867539_20300_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610195998350_19640_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610196557575_25816_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610196650814_3852_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610197338392_20188_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610197654655_22640_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610197857476_20576_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610198159644_25616_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610198305939_4260_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610198352097_16300_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/build/reports/tests/webdriver.1610198647676_23476_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/chrome/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/src/test/java/FbRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/src/test/java/UITesting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homowork-4/target/test-classes/UITesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,49 +141,65 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1mAWKuhxW4K6r07OBS0EzXTtBpW" />
+  <component name="ProjectId" id="1mAWPQK9OtGt22j9iHlsKFz6oKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homowork-4/src/test/java" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nino\Desktop\Homework-3\Homowork-4\src\test\java" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="FbRegistration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.UITesting.TestMethod1">
+    <configuration name="UITesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homowork-4" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FbRegistration" />
+      <option name="MAIN_CLASS_NAME" value="UITesting" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homowork-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UITesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UITesting.TestMethod1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homowork-4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UITesting" />
+      <option name="METHOD_NAME" value="TestMethod1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FbRegistration" />
+        <item itemvalue="TestNG.UITesting.TestMethod1" />
+        <item itemvalue="TestNG.UITesting" />
+        <item itemvalue="JUnit.UITesting" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\Nino\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd27316e-b7f2-4979-a301-d65d3a44e212" name="Default Changelist" comment="" />
-      <created>1608936818353</created>
+      <changelist id="47c84296-5933-4eef-9f0f-8b60a670093b" name="Default Changelist" comment="" />
+      <created>1608936853612</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608936818353</updated>
+      <updated>1608936853612</updated>
     </task>
     <servers />
   </component>
@@ -100,33 +216,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610192031020">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611407122134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="461" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610192031020" />
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1610200420308">
+    <state x="422" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611407122134" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611407169474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610200420308" />
-    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1610200420307">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611407169474" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1611407169474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610200420307" />
-    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1610200420307">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611407169474" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1611407169474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610200420307" />
-    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1610200420308">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611407169474" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1611407169474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610200420308" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1610193167504">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611407169474" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1608937340557">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610193167504" />
-    <state x="65" y="25" key="new project wizard" timestamp="1610192064512">
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608937340557" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611405097931">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1610192064512" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611405097931" />
   </component>
 </project>
